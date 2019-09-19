@@ -33,4 +33,4 @@
 
 > Sentry (Monitorar falhas na aplicação;
 
-~Esse back-end foi desenvolvido como desafio do Bootcamp da Rocketseat.~
+~Back-END desenvolvido como desafio do Bootcamp da Rocketseat.~
